@@ -12,8 +12,7 @@
 
         <!-- Fonts -->
         <!-- Styles -->
-        <link rel="stylesheet" type="text/css" href="{!! asset('css/asset/Header-Nightsky.css')!!}" > 
-        <link rel="stylesheet" type="text/css" href="{!! asset('css/asset/Header-Nightsky.js')!!}" > 
+       
     </head>
     <body>
         <div class="flex-center position-ref full-height">
